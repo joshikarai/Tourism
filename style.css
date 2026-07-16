@@ -4,18 +4,17 @@
     background-color: rgba(8, 111, 111, 0.474);
     text-align: center;
     margin:20px;
+    font-family: 'Times New Roman', Times, serif;
     
 }
 .head{
     background-color: rgba(8, 121, 121, 0.681);
-    font-family: 'Times New Roman', Times, serif;
     font-size: 50px;
     margin:10vh;
     border-radius:20px;
 }
 .para{
-     background-color: rgba(8, 121, 121, 0.681);
-    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(8, 121, 121, 0.681);
     font-size: 30px;
     margin:10vh;
     border-radius:20px;
@@ -23,7 +22,6 @@
 }
 .button{
     background-color: rgba(8, 121, 121, 0.681);
-    font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
     margin:5vh;
     border-radius:20px;
