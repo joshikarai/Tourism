@@ -9,6 +9,8 @@
     width: 100%;
     margin: auto;
     background-image: url('images/mountain.jpg');
+    background-color:rgba(0, 0, 0, 0.371);
+    background-blend-mode:darken;
     background-position: center;
     background-size: cover;
     text-align: center;
