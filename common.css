@@ -1,0 +1,65 @@
+.body{
+    margin:0;
+    font-family: 'Times New Roman', Times, serif;
+    background:url(images/mountain.jpg);
+    background-size:cover;
+    background-position:center;
+    background-color:rgba(0,0,0,.5);
+    background-blend-mode:darken;
+}
+
+.back-btn{
+    color:white;
+    text-decoration:none;
+    background-color: #2E6B3E;
+    padding:12px 25px;
+    border-radius:30px;
+}
+
+h1{
+    text-align:center;
+    font-size:70px;
+    font-family:'Times New Roman', Times, serif;
+    color:#fefefe;
+}
+
+.carousel-box{
+    width:65%;
+    margin:auto;
+    border-radius: 25px;
+    backdrop-filter: blur;
+    border:1px solid rgba(20, 19, 19, 0.518);
+    box-shadow: 0 20px 20px rgba(15, 15, 15, 0.829);
+}
+
+.carousel-item img{
+    height:550px;
+    object-fit:cover;
+    border-radius:20px;
+}
+
+.info-section{
+    margin-top:20px;
+    display:flex;
+    justify-content:center;
+    gap:50px;
+    background: rgba(2, 48, 44, 0.501);
+    padding:40px;
+    color:black;
+}
+
+.place{
+    width:35%;
+    text-align:center;
+}
+.heading{
+    font-size:30px;
+     font-weight:700;
+     color:#fefefe;
+}
+.para{
+    color:#fefefecd;
+    font-size: 18px;
+    line-height: 1.6;
+    font-weight: 500;
+}
